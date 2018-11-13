@@ -29,7 +29,7 @@ class SearchTableViewController: UITableViewController, UISearchBarDelegate {
         
         setupTableView()
         
-        searchBar(searchController.searchBar, textDidChange: "Voong")
+//        searchBar(searchController.searchBar, textDidChange: "Daily")
  
     }
     
