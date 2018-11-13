@@ -62,7 +62,6 @@ class DownloadTableViewController: UITableViewController {
             
             window?.addSubview(episodePlayerView)
         }
-        
-        
+
     }
 }
